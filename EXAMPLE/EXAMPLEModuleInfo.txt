@@ -1,0 +1,7 @@
+name=Vlandian Troops Redone
+version=v1.2.0
+author=Artintrex and Nemerius
+authorLink=https://forums.taleworlds.com/index.php?threads/vlandia-troops-redone-1-2.411240/
+authorIsWebLink=0
+imagePath=VlandianTroopsRedoneBanner.jpg
+iconPath=bannerlord_icon.ico
